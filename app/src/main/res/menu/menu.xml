@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"></item>
+    <item android:id="@+id/move"
+        android:icon="@drawable/ic_baseline_arrow_forward_24"
+        android:title="Move"></item>
+    <item android:id="@+id/user"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="User"></item>
+    <item android:id="@+id/camera"
+        android:icon="@drawable/ic_baseline_camera_alt_24"
+        android:title="Camera"></item>
+
+
+
+
+</menu>
